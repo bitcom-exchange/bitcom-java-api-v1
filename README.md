@@ -1,6 +1,16 @@
 # bit.com Java Api demo
 
-## version
+
+### API request/response format
+https://www.bit.com/docs/en-us/spot.html#order
+
+### Guidelines for account mode
+https://www.bit.com/docs/en-us/spot.html#guidelines-for-account-mode
+
+### API Host:
+https://www.bit.com/docs/en-us/spot.html#spot-api-hosts-production
+
+## Java version
 
 java 17
 
